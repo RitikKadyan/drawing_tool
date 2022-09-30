@@ -1,6 +1,5 @@
 import pygame
 import random
-import math
 
 pygame.init()
 # Define some colors
@@ -16,8 +15,6 @@ size = (1200, 800)
 screen = pygame.display.set_mode(size)
 pygame.display.set_caption("2D Game")
 screen.fill(BLACK)
-
-random.seed(pygame.time.Clock())
 
 
 class Toucan(pygame.sprite.Sprite):
