@@ -5,7 +5,7 @@ Commands:
   R: Switch color to Red
   B: Switch color to Blue
   G: Switch color to Green
-  W: Swtich color to White
+  W: Switch color to White
   H: Draw a prebuilt house
   C: Clear the canvas/screen
   L: Switch shape mode to line
